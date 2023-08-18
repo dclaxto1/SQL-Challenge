@@ -34,5 +34,5 @@ Imported each CSV file into its corresponding SQL table.
 
 8. List the frequency counts, in descending order, of all the employee last names (that is, how many employees share each last name).
 
-**I also repeated these query results using Python Pandas library**
+**I also repeated these query results using the Python Pandas library**
 
