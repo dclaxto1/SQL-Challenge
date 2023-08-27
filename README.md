@@ -51,5 +51,8 @@ Imported each CSV file into its corresponding SQL table.
 
 ![image](https://github.com/dclaxto1/SQL-Challenge/assets/128431134/e26dafc0-4db0-44f6-954e-76d4680b45e8)
 
-**I also repeated these query results using the Python Pandas library**
+**I also repeated these query results using the Python Pandas library**<br />
+Example:<br />
+1. List the employee number, last name, first name, sex, and salary of each employee.<br />
+![image](https://github.com/dclaxto1/SQL-Challenge/assets/128431134/541447c8-3efb-4d83-967a-9049c0aabf9f)
 
