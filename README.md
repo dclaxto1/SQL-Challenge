@@ -23,7 +23,7 @@ Imported each CSV file into its corresponding SQL table.
 
 ![image](https://github.com/dclaxto1/SQL-Challenge/assets/128431134/87c694ee-f9e8-44d3-8034-4d70ed9ab370)
 
-2. List the first name, last name, and hire date for the employees who were hired in 1986.<br />
+2. List the first name, last name, and hire date for the employees who were hired in 1986. <br />
 
 ![image](https://github.com/dclaxto1/SQL-Challenge/assets/128431134/db5666e7-8787-46d6-a3b9-a7a0389c48a5)
 
