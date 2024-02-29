@@ -7,7 +7,7 @@ Inspected the CSV files, and then sketched an Entity Relationship Diagram of the
 
 
 **Data Engineering**:
-
+  
 Used the provided information to create a table schema for each of the six CSV files. Did the following:
 
 Specified the data types, primary keys, foreign keys, and other constraints.
