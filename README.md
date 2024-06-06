@@ -1,6 +1,6 @@
 # SQL-Challenge
  
-**Data Modeling**:
+**Data Modeling**:  
 
 Inspected the CSV files, and then sketched an Entity Relationship Diagram of the tables. For this I used quickdatabasediagrams.com - a free tool available online.  
 ![image](https://github.com/dclaxto1/SQL-Challenge/assets/128431134/ed8d4923-6fff-43ec-9ebd-0e2943fbbf18)
