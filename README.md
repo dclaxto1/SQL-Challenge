@@ -12,7 +12,7 @@ Used the provided information to create a table schema for each of the six CSV f
  
 Specified the data types, primary keys, foreign keys, and other constraints.
 
-Create the tables in the correct order to handle the foreign keys.
+Create the tables in the correct order to handle the foreign keys. 
 
 Imported each CSV file into its corresponding SQL table.
 
